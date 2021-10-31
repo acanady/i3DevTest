@@ -12,3 +12,6 @@ This particular project requires the following
 * Parts should  highlight somehow when hovered over to show that they are clickable
 * UI should scale with various aspect ratios
 * Modular implementation preferred for scalability
+
+
+![](i3.gif)
