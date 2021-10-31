@@ -13,5 +13,6 @@ This particular project requires the following
 * UI should scale with various aspect ratios
 * Modular implementation preferred for scalability
 
+You can see my solution in action below
 
 ![](i3.gif)
